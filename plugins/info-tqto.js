@@ -53,6 +53,9 @@ https://github.com/Rlxfly
 https://github.com/Aiinne
 *❉ Papah-Chan:*
 https://github.com/FahriAdison
+*▸ - - - —「 Owner Bot 」— - - - ◂*
+*❉ Mall:*
+https://github.com/malgtps
 *▸ - - - —「 Penulis Ulang 」— - - - ◂*
 *❉ ImYanXiao:*
 https://github.com/ImYanXiao
