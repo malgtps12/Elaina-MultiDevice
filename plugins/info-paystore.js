@@ -30,8 +30,8 @@ let info = `
 ╰═┅═━––––––๑
 
 *⫹⫺ PAYMENT:*
-• *Pulsa:* [${ppulsa}]
-• *Dana:* [${pdana}]
+• *Pulsa:* '089516353968'
+• *Dana:* '089516353968'
 
 –––––– *🐾 Kebijakan* ––––––
 🗣️: Kak, Kok harganya mahal banget?
